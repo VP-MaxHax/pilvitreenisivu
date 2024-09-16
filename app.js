@@ -61,7 +61,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if (history.length === jsonData.length) {
             history = [];
         }
-        console.log(history);
         loadQuizData(jsonData, questionIndex);
         document.getElementById('result').textContent = '';
         document.getElementById('answer').textContent = '';
