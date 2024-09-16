@@ -1,0 +1,182 @@
+[
+    {
+      "image_name": "pilvi1.jpg",
+      "correct_answer_1": "Cirrus",
+      "correct_answer_2": "uncinus"
+    },
+    {
+      "image_name": "pilvi2.jpg",
+      "correct_answer_1": "Cirrus",
+      "correct_answer_2": "fibraatus"
+    },
+    {
+        "image_name": "pilvi3.jpg",
+        "correct_answer_1": "Cirrus",
+        "correct_answer_2": "fibraatus"
+    },
+    {
+      "image_name": "pilvi4.jpg",
+      "correct_answer_1": "Cirrocumulus",
+      "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi5.jpg",
+      "correct_answer_1": "Cirrocumulus",
+      "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi6.jpg",
+      "correct_answer_1": "Cirrocumulus",
+      "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi7.jpg",
+        "correct_answer_1": "Cirrostratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi8.jpg",
+        "correct_answer_1": "Cirrostratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi9.jpg",
+        "correct_answer_1": "Cirrostratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi10.jpg",
+        "correct_answer_1": "Cirrostratus",
+        "correct_answer_2": "fibraatus"
+    },
+    {
+        "image_name": "pilvi11.jpg",
+        "correct_answer_1": "Altostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi12.jpg",
+        "correct_answer_1": "Altostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi13.jpg",
+        "correct_answer_1": "Altostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi14.jpg",
+        "correct_answer_1": "Altostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi15.jpg",
+        "correct_answer_1": "Altocumulus",
+        "correct_answer_2": "floccus"
+    },
+    {
+        "image_name": "pilvi16.jpg",
+        "correct_answer_1": "Altocumulus",
+        "correct_answer_2": "floccus"
+    },
+    {
+        "image_name": "pilvi17.jpg",
+        "correct_answer_1": "Altocumulus",
+        "correct_answer_2": "lenticularis"
+    },
+    {
+        "image_name": "pilvi18.jpg",
+        "correct_answer_1": "Altocumulus",
+        "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi19.jpg",
+        "correct_answer_1": "Altocumulus",
+        "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi20.jpg",
+        "correct_answer_1": "Nimbostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi21.jpg",
+        "correct_answer_1": "Nimbostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi22.jpg",
+        "correct_answer_1": "Nimbostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi23.jpg",
+        "correct_answer_1": "Nimbostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi24.jpg",
+        "correct_answer_1": "Stratocumulus",
+        "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi25.jpg",
+        "correct_answer_1": "Stratocumulus",
+        "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi26.jpg",
+        "correct_answer_1": "Stratus",
+        "correct_answer_2": "fractus"
+    },
+    {
+        "image_name": "pilvi27.jpg",
+        "correct_answer_1": "Stratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi28.jpg",
+        "correct_answer_1": "Stratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi29.jpg",
+        "correct_answer_1": "Cumulus",
+        "correct_answer_2": "humilis"
+    },
+    {
+        "image_name": "pilvi30.jpg",
+        "correct_answer_1": "Cumulus",
+        "correct_answer_2": "congestus"
+    },
+    {
+        "image_name": "pilvi31.jpg",
+        "correct_answer_1": "Cumulus",
+        "correct_answer_2": "humilis"
+    },
+    {
+        "image_name": "pilvi32.jpg",
+        "correct_answer_1": "Cumulus",
+        "correct_answer_2": "mediocris"
+    },
+    {
+        "image_name": "pilvi33.jpg",
+        "correct_answer_1": "Cumulus",
+        "correct_answer_2": "congestus"
+    },
+    {
+        "image_name": "pilvi34.jpg",
+        "correct_answer_1": "Cumulonimbus",
+        "correct_answer_2": "calvus"
+    },
+    {
+        "image_name": "pilvi35.jpg",
+        "correct_answer_1": "Cumulonimbus",
+        "correct_answer_2": "capillatus"
+    },
+    {
+        "image_name": "pilvi13.jpg",
+        "correct_answer_1": "Cumulonimbus",
+        "correct_answer_2": "capillatus"
+    }
+  ]

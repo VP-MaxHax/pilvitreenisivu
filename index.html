@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MetPe pilviharkka</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div>
+        <h1>MetPe pilviharkka</h1>
+        <img id="image" src="" alt="Quiz Image">
+        
+        <div>
+            <label for="dropdown1">Pilvisuku:</label>
+            <select id="dropdown1">
+                <option value="Cirrus">Cirrus</option>
+                <option value="Cirrostratus">Cirrostratus</option>
+                <option value="Cirrocumulus">Cirrocumulus</option>
+                <option value="Altostratus">Altostratus</option>
+                <option value="Altocumulus">Altocumulus</option>
+                <option value="Stratus">Stratus</option>
+                <option value="Stratocumulus">Stratocumulus</option>
+                <option value="Nimbostratus">Nimbostratus</option>
+                <option value="Cumulus">Cumulus</option>
+                <option value="Cumulonimbus">Cumulonimbus</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="dropdown2">Pilvilaji:</label>
+            <select id="dropdown2">
+                <!-- Options will be dynamically populated based on the selection in dropdown1 -->
+            </select>
+        </div>
+        <div>
+            <button id="checkButton">Anna vastaus</button>
+            <p id="result"></p>
+        </div>
+        <button id="showAnswerButton">Näytä oikea vastaus</button>
+        <button id="nextButton">Seuraava kuva</button>
+        <p id="answer"></p>
+        
+    </div>
+    <div>
+        <h2>Aputaulukko:</h2>
+        <img id="cheatsheet" src="static/Cheatsheet.jpg" alt="Cheatsheet">
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
