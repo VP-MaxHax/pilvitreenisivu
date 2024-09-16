@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     var correctAnswer1;
     var correctAnswer2;
     var questionIndex = 0;
+    var history = [];
     const options = {
         Cirrus: ['fibratus', 'uncinus', 'spissatus', 'castellanus', 'floccus'],
         Cirrostratus: ['fibratus', 'nebulosus'],
@@ -53,6 +54,14 @@ document.addEventListener('DOMContentLoaded', () => {
     
     function loadNewQuiz() {
         questionIndex = Math.floor(Math.random() * jsonData.length);
+        while (history.includes(questionIndex)) {
+            questionIndex = Math.floor(Math.random() * jsonData.length);
+        }
+        history.push(questionIndex);
+        if (history.length === jsonData.length) {
+            history = [];
+        }
+        console.log(history);
         loadQuizData(jsonData, questionIndex);
         document.getElementById('result').textContent = '';
         document.getElementById('answer').textContent = '';
