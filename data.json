@@ -178,5 +178,85 @@
         "image_name": "pilvi36.jpg",
         "correct_answer_1": "Cumulonimbus",
         "correct_answer_2": "capillatus"
+    },
+    {
+        "image_name": "pilvi37.jpg",
+        "correct_answer_1": "Cirrus",
+        "correct_answer_2": "fibratus"
+    },
+    {
+        "image_name": "pilvi38.jpg",
+        "correct_answer_1": "Cirrus",
+        "correct_answer_2": "uncinus"
+    },
+    {
+        "image_name": "pilvi39.jpg",
+        "correct_answer_1": "Cirrocumulus",
+        "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi40.jpg",
+        "correct_answer_1": "Cirrocumulus",
+        "correct_answer_2": "floccus"
+    },
+    {
+        "image_name": "pilvi41.jpg",
+        "correct_answer_1": "Cirrostratus",
+        "correct_answer_2": "fibratus"
+    },
+    {
+        "image_name": "pilvi42.jpg",
+        "correct_answer_1": "Cirrostratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi43.jpg",
+        "correct_answer_1": "Altocumulus",
+        "correct_answer_2": "castellanus"
+    },
+    {
+        "image_name": "pilvi44.jpg",
+        "correct_answer_1": "Altostratus",
+        "correct_answer_2": ""
+    },
+    {
+        "image_name": "pilvi45.jpg",
+        "correct_answer_1": "Cumulus",
+        "correct_answer_2": "fractus"
+    },
+    {
+        "image_name": "pilvi46.jpg",
+        "correct_answer_1": "Cumulonimbus",
+        "correct_answer_2": "capillatus"
+    },
+    {
+        "image_name": "pilvi47.jpg",
+        "correct_answer_1": "Cumulonimbus",
+        "correct_answer_2": "capillatus"
+    },
+    {
+        "image_name": "pilvi48.jpg",
+        "correct_answer_1": "Stratocumulus",
+        "correct_answer_2": "stratiformis"
+    },
+    {
+        "image_name": "pilvi49.jpg",
+        "correct_answer_1": "Stratocumulus",
+        "correct_answer_2": "floccus"
+    },
+    {
+        "image_name": "pilvi50.jpg",
+        "correct_answer_1": "Stratus",
+        "correct_answer_2": "nebulosus"
+    },
+    {
+        "image_name": "pilvi51.jpg",
+        "correct_answer_1": "Stratus",
+        "correct_answer_2": "fractus"
+    },
+    {
+        "image_name": "pilvi52.jpg",
+        "correct_answer_1": "Cumulonimbus",
+        "correct_answer_2": "capillatus"
     }
   ]

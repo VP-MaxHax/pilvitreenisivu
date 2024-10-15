@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         Stratus: ['nebulosus', 'fractus'],
         Stratocumulus: ['stratiformis', 'lenticularis', 'castellanus', 'floccus'],
         Nimbostratus: [''],
-        Cumulus: ['humilis', 'mediocris', 'congestus'],
+        Cumulus: ['humilis', 'mediocris', 'congestus', 'fractus'],
         Cumulonimbus: ['calvus', 'capillatus']
     };
     fetch('data.json')
