@@ -2,7 +2,7 @@ FROM ubuntu
 
 WORKDIR /app
 
-EXPOSE 8000
+EXPOSE 8080
 
 COPY . .
 
